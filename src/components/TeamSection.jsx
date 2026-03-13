@@ -1,4 +1,4 @@
-import TeamCard from "./teamCard";
+import TeamCard from "./TeamCard";
 
 const team = [
   {
